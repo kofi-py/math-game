@@ -1,0 +1,6 @@
+Math Game for Missy
+
+1. Use Python - "pygame" or "tkinter" (leaning towards "pygame")
+2. Make it appealing (Use something like Comic Sans font)
+3. Accessable on the computer (convert to .exe)
+4. Send to Daddy.
